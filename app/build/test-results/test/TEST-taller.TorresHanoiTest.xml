@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="taller.TorresHanoiTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-09-16T18:10:53" hostname="DESKTOP-D8C4CHH" time="0.045">
+  <properties/>
+  <testcase name="Numero de Movimientos con 3 discos" classname="taller.TorresHanoiTest" time="0.042"/>
+  <testcase name="Numero de Movimientos con 4 discos" classname="taller.TorresHanoiTest" time="0.001"/>
+  <testcase name="Secuencia de Movimientos con 3 discos" classname="taller.TorresHanoiTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
