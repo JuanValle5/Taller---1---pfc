@@ -3,9 +3,9 @@ package taller
 class TorresHanoi {
   def movsTorresHanoi(n: Int): BigInt = {
     if (n <= 0)
-      throw new IllegalArgumentException("El número de discos debe ser mayor a 0")
+      0
     else
-      BigInt(2).pow(n) - 1
+      2 * movsTorresHanoi(n - 1) + 1
   }
   def torresHanoi(n: Int, t1: Int, t2: Int, t3: Int): List[(Int, Int)] = {
     if (n == 0)

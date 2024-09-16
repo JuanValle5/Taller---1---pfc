@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="taller.TorresHanoiTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-09-16T19:18:11" hostname="DESKTOP-D8C4CHH" time="0.059">
+  <properties/>
+  <testcase name="Torres de Hanoi con 1 disco" classname="taller.TorresHanoiTest" time="0.032"/>
+  <testcase name="Torres de Hanoi con 2 discos" classname="taller.TorresHanoiTest" time="0.005"/>
+  <testcase name="Torres de Hanoi con 3 discos" classname="taller.TorresHanoiTest" time="0.001"/>
+  <testcase name="Torres de Hanoi sin discos" classname="taller.TorresHanoiTest" time="0.002"/>
+  <testcase name="Torres de Hanoi Movimientos con 1 disco" classname="taller.TorresHanoiTest" time="0.003"/>
+  <testcase name="Torres de Hanoi Movimientos con 2 discos" classname="taller.TorresHanoiTest" time="0.001"/>
+  <testcase name="Toores de Hanoi Movimientos con 3 discos" classname="taller.TorresHanoiTest" time="0.001"/>
+  <testcase name="Torres de Hanoi Movimientos sin discos" classname="taller.TorresHanoiTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
